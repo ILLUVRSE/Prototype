@@ -1,0 +1,32 @@
+# ILLUVRSE / Prototype
+
+Welcome to the **ILLUVRSE Prototype Repository** — a sandbox for testing and iterating on early-stage concepts, mechanics, and systems that may become part of the ILLUVIUM universe.
+
+> 🚧 This repository contains experimental code and is **not production-ready**. Expect rapid iteration, breaking changes, and evolving documentation.
+
+---
+
+## 🌌 Purpose
+
+The goal of this repo is to explore and validate prototype ideas that support the growth of the ILLUVRSE experience across gameplay, infrastructure, and user interfaces.
+
+We focus on:
+- New game mechanics (e.g., traversal, interaction systems, mini-games)
+- UI/UX concepts for web3 onboarding
+- Backend services for simulation or real-time logic
+- Integration tests with NFTs, wallets, or marketplace logic
+- AR/VR and mixed reality experimentation
+
+---
+
+## 📁 Project Structure
+
+```bash
+prototype/
+├── docs/              # Design briefs, architecture notes, media references
+├── experiments/       # Isolated proof-of-concepts, demos, and testbeds
+├── core/              # Shared modules: input, rendering, state mgmt
+├── integrations/      # API stubs or real endpoints for external services
+├── assets/            # Sample 3D models, audio, sprites
+├── public/            # Web-facing resources (if applicable)
+└── README.md
